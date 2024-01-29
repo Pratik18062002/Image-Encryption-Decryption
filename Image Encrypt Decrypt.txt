@@ -1,0 +1,26 @@
+A] Image Encryption
+
+1) Browse Image from Computer
+2) Convert image into base64 String
+3) send that base64 String to encrypt using AES algorithm and to encrypt image it is required to use some encryption key (AES algorithm supports 128-bit encryption key)
+4) you will get Encrypted String
+
+B] Image Decryption
+
+1) Decrypt the encoded String using same encryption key you will get base64 string
+2) convert base64 string into image
+
+
+
+Refer :-
+1) Image to base64 converter online 
+https://base64.guru/converter/encode/image
+
+2) Online encryption key generator
+https://www.allkeysgenerator.com/Random/Security-Encryption-Key-Generator.aspx#
+
+3) Online encryption decryption
+https://www.devglan.com/online-tools/aes-encryption-decryption
+
+4) base64 to image converter online
+https://codebeautify.org/base64-to-image-converter
